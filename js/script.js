@@ -9,3 +9,7 @@ if (myage < 18) { // Se l'età è minore di 18
     let finalPrice = (mykm * (priceToKm * (1 - juniorDiscount))); // Calcolo il prezzo totale con scontistica
     console.log (`Il costo del biglietto è ${finalPrice.toFixed(2)}`); // Stampo il prezzo finale
 }
+else if (myage >= 65) { // Se l'età è maggiore di 65
+    let finalPrice = (mykm * (priceToKm * (1 - seniorDiscount))); // Calcolo il prezzo totale con scontistica
+    console.log (`Il costo del biglietto è ${finalPrice.toFixed(2)}`); // Stampo il prezzo finale
+}

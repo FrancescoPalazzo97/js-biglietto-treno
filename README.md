@@ -15,3 +15,4 @@ SVOLGIMENTO
 1- Per prima cosa definisco le varibiali per il prezzo al km e per le scontistiche
 2- A seguire definsco le varibili per l'età del passegero e i km che vuole percorrere tramite prompt
 2- Prima condizione se l'età è inferiore a 18 anni
+3- Seconda condizione se l'età è superiore a 65 anni
