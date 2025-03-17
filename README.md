@@ -10,3 +10,6 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
   Numero di push minimo: 6
   Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
   Buon lavoro!
+
+SVOLGIMENTO
+Per prima cosa definisco le varibiali per il prezzo al km e per le scontistiche
