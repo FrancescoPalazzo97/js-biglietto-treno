@@ -12,4 +12,5 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
   Buon lavoro!
 
 SVOLGIMENTO
-Per prima cosa definisco le varibiali per il prezzo al km e per le scontistiche
+1- Per prima cosa definisco le varibiali per il prezzo al km e per le scontistiche
+2- A seguire definsco le varibili per l'età del passegero e i km che vuole percorrere tramite prompt
