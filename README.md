@@ -17,3 +17,4 @@ SVOLGIMENTO
 2- Prima condizione se l'età è inferiore a 18 anni
 3- Seconda condizione se l'età è superiore a 65 anni
 4- terza condizione se l'età è compresa tra 18 e 65
+5- Aggiunta degli alert e esercizio finito
